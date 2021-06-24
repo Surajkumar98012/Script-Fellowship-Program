@@ -10,7 +10,7 @@ body
 {
   margin: 0;
   padding: 0;
-	background-color:rgb(250,250,254);
+	background-color:#074368;
 }
 
 .wrap{
@@ -79,7 +79,7 @@ body
 
 .containers .card:hover{
   height: 420px;
-  box-shadow: 0 50px 200px rgba(0,0,0,0.95);
+  box-shadow: 0 50px 204px #03a9f4;
 
 }
 
